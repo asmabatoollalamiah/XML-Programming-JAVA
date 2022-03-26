@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accounts>
+	<account id="1">
+		<accountNumber>431234567</accountNumber>
+		<accountName>Asma Batool Lalamiah</accountName>
+		<accountType>Savings Account</accountType>
+	</account>
+	<account id="2">
+		<accountNumber>234567831</accountNumber>
+		<accountName>Anne Frank</accountName>
+		<accountType>Current Account</accountType>
+	</account>
+	<account id="3">
+		<accountNumber>234543831</accountNumber>
+		<accountName>Kapil Dev</accountName>
+		<accountType>Savings Account</accountType>
+	</account>
+	<account id="4">
+		<accountNumber>034567831</accountNumber>
+		<accountName>Anne Frank</accountName>
+		<accountType>Current Account</accountType>
+	</account>
+	<account id="5">
+		<accountNumber>204567831</accountNumber>
+		<accountName>Anil Kumble</accountName>
+		<accountType>Savings Account</accountType>
+	</account>
+	<account id="6">
+		<accountNumber>234067831</accountNumber>
+		<accountName>Rahul Dravid</accountName>
+		<accountType>Current Account</accountType>
+	</account>
+	<account id="7">
+		<accountNumber>234560831</accountNumber>
+		<accountName>Ian Botham</accountName>
+		<accountType>Savings Account</accountType>
+	</account>
+</accounts>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT accounts (account+)>
+<!ELEMENT account (accountNumber, accountName, accountType)>
+<!ELEMENT accountNumber (ANY)>
+<!ELEMENT accountName (#PCDATA)>
+<!ELEMENT accountType (#PCDATA)>
+<!ATTLIST dvd id CDATA #REQUIRED>
